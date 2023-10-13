@@ -31,7 +31,7 @@
 eml directory contains EML file to validate and email-example.png to see the email template was used to test
 
 ## Postman 
-postman directory contains real-challenge.postman_collection.json file to validate
+postman directory contains real-challenge.postman_collection.json collection to perform REST requests
 
 ## Running the app
 
