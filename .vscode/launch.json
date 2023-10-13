@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "retro-survey-api",
+            "request": "launch",
+            "type": "node",
+            "runtimeArgs": [
+                "--nolazy",
+                "-r",
+                "ts-node/register",
+                "-r",
+                "tsconfig-paths/register"
+            ],
+            "sourceMaps": true,
+            "envFile": "${workspaceFolder}/.env",
+            "console": "integratedTerminal",
+           // "protocol": "inspector",
+            "args": [
+                "${workspaceFolder}/src/main.ts"
+            ],
+            "skipFiles": [
+                "<node_internals>/**",
+                "<node_modules>/**"
+            ],
+            "autoAttachChildProcesses": true
+        }
+    ]
+}

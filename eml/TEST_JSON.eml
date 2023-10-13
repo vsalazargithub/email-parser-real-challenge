@@ -1,0 +1,40 @@
+MIME-Version: 1.0
+Date: Fri, 13 Oct 2023 02:35:32 -0600
+Message-ID: <CADpaBV3r1CKYRoJGu4uFocBF_P7bEx6e6TCPm-1MpKGzaU9rvQ@mail.gmail.com>
+Subject: TEST JSON
+From: Victor Salazar <vsalazar.local@gmail.com>
+To: Victor Salazar <vsalazar.local@gmail.com>
+Content-Type: multipart/mixed; boundary="000000000000b6ec7c060794f0c0"
+
+--000000000000b6ec7c060794f0c0
+Content-Type: multipart/alternative; boundary="000000000000b6ec7a060794f0be"
+
+--000000000000b6ec7a060794f0be
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+--000000000000b6ec7a060794f0be
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div dir=3D"ltr" class=3D"gmail_signature" data-smartm=
+ail=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div style=
+=3D"margin:0px;padding:0px 0px 20px;width:1119.2px;font-family:Roboto,Robot=
+oDraft,Helvetica,Arial,sans-serif;font-size:medium"><div style=3D"margin:8p=
+x 0px 0px;padding:0px"><div><div dir=3D"ltr"><span><font color=3D"#888888">=
+<div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"></div></div></div></font=
+></span></div></div></div><div><div></div><div><div></div></div></div><div>=
+</div></div></div></div></div></div></div>
+
+--000000000000b6ec7a060794f0be--
+--000000000000b6ec7c060794f0c0
+Content-Type: application/json; name="test.json"
+Content-Disposition: attachment; filename="test.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_lnocsqkv0
+Content-ID: <f_lnocsqkv0>
+
+ew0KICAgICJhcmdzIjoge30sDQogICAgIm9yaWdpbiI6ICIxOTAuOTkuNDMuNzYiLA0KICAgICJ1
+cmwiOiAiaHR0cHM6Ly9odHRwYmluLm9yZy9nZXQiDQp9
+--000000000000b6ec7c060794f0c0--
