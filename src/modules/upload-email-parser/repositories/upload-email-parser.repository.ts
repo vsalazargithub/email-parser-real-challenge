@@ -26,7 +26,7 @@ export class EmailParserRepository implements IEmailParserRepository {
         .map(() => Math.round(Math.random() * 7).toString(7))
         .join('')
 
-    const attachmentDirectoryPathPromise = new EmlParser(
+    const attachmentDirectoryPathPromise = await new EmlParser(
       fs.createReadStream('./uploads/' + data.filename),
     )
       .getEmailAttachments()
