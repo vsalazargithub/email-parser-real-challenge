@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "4dbe686f-2f83-484a-9a67-5646bac47982",
+		"_postman_id": "65e3d7b2-6ae7-4335-949e-6ab9fe27eb5b",
 		"name": "real-challenge",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "30029497"
@@ -61,7 +61,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"url\": \"https://api.publicapis.org/entries\"\r\n}",
+							"raw": "{\r\n    \"url\": \"https://catfact.ninja/fact\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
