@@ -37,7 +37,7 @@ export class EmailParserRepository implements IEmailParserRepository {
             fs.mkdirSync(directoryName)
           }
 
-          fs.writeFile(
+          fs.writeFileSync(
             directoryName + '/' + attachment.filename,
             attachment.content,
             'binary',
